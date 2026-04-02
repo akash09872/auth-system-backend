@@ -1,0 +1,9 @@
+.env
+.env*
+node_modules/
+.vscode
+config/local.json
+uploads/
+tmp/
+temp/
+.cache/
